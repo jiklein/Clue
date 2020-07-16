@@ -4,5 +4,5 @@ Two bots designed to play the board game Clue
 Usage:
 
   javac *.java
-  java Test       // To test the bots
+  java Tester     // To test the bots
   java Play       // To play the game yourself
